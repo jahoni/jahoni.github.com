@@ -1,0 +1,47 @@
+body {
+	margin:0;
+	padding:0;
+	background:#333 url(../img/bg.jpg) no-repeat;
+}
+
+#container {
+	border:3px #333;
+	-webkit-border-radius:10px;
+	margin:20px auto 0 auto;
+	padding:20px;
+	width:500px;
+	background:#000;
+	opacity:.75;
+	color:#fff;
+}
+
+h1 {
+	margin:0;
+	float:left;
+}
+
+ul {
+	float:right;
+	list-style:none;
+}
+
+li {
+	float:left;
+	margin:0 10px 0 0;
+}
+
+.nav {
+	color:#fff;
+	text-decoration:none
+}
+
+.highlight {
+	color:lightblue;
+}
+
+#statement {
+	background:#000;
+	border-top:1px solid green;
+	border-left:1px solid green;
+	border-right:1px solid green;	
+}
